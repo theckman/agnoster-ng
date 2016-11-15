@@ -6,7 +6,8 @@ within `antigen` + `oh-my-zsh`. This theme originated from the version of the
 
 `agnoster` is a theme which was originally by [Isaac Wolkerstorfer](https://github.com/agnoster).
 It was then added and enhanced as part of the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-distribution.
+distribution. The original version by Isaac can be found
+[here](https://github.com/agnoster/agnoster-zsh-theme).
 
 The biggest difference between `agnoster` in `oh-my-zsh` and `agnoster-ng`, is
 the addition of the `AGNOSTER_CURRENT_PATH` variable which allows you to change
